@@ -1,2 +1,5 @@
+# www.x-plugin.pl
 # demo-simplebar-react
- https://x-plugin.pl
+demo-simplebar-react
+## Link do strony:
+ https://x-plugin.pl/react/prosty-pasek-przewijania-simplebar-react
